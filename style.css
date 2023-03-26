@@ -30,7 +30,7 @@ html {
 /* Nav Bar  */
 
 #nav-bar {
-
+    top:0;
     background-color: black;
     height: auto;
     width: 100%;
